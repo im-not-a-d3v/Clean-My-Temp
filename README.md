@@ -63,12 +63,6 @@ Para programar la ejecución periódica de `CleanMyTemp-AUTO`:
 - **Archivos en uso**: Algunos archivos o carpetas pueden no eliminarse si están en uso por el sistema u otras aplicaciones.
 - **Ejecutar con cuidado**: Asegúrate de que no hay archivos necesarios en las carpetas temporales, ya que serán eliminados sin confirmación (en el caso de `CleanMyTemp-AUTO`).
 
-## Contacto
-
-Para sugerencias, mejoras o reportar problemas, puedes contactarme por [tu correo electrónico o perfil de GitHub].
-
 ---
 
 ¡Espero que estos scripts te sean útiles para mantener tu sistema limpio!
-# Clean-My-Temp
-# Clean-My-Temp
