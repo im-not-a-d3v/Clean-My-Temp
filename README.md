@@ -1,5 +1,8 @@
 # Script de Limpieza de Archivos Temporales en Windows
 
+[![version](https://img.shields.io/badge/version-1.0.0-orange?style=for-the-badge&logo=white&labelColor=1c1c1c)](#)
+[![license](https://img.shields.io/badge/license-mit-orange?style=for-the-badge&logo=white&labelColor=1c1c1c)](#)
+
 Este repositorio contiene dos scripts en Bash para eliminar automáticamente archivos y carpetas temporales en las carpetas del sistema y del usuario en Windows. 
 
 - **CleanMyTemp**: Script interactivo que requiere confirmación del usuario antes de proceder con la limpieza.
