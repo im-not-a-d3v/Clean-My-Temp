@@ -39,7 +39,7 @@ Este repositorio contiene dos scripts en Bash para eliminar automáticamente arc
    ./CleanMyTemp-AUTO.sh
    ```
 
-   Este script eliminará automáticamente los archivos y carpetas temporales sin solicitar confirmación.
+   <small> Este script eliminará automáticamente los archivos y carpetas temporales sin solicitar confirmación. </small>
 
 ## Funcionalidades
 
@@ -69,4 +69,4 @@ Para programar la ejecución periódica de `CleanMyTemp-AUTO`:
 - **Ejecutar con cuidado**: Asegúrate de que no hay archivos necesarios en las carpetas temporales, ya que serán eliminados sin confirmación (en el caso de `CleanMyTemp-AUTO`).
 
 ## Licencia
-Proyecto bajo licencia [MIT.](LICENSE)
+Proyecto bajo licencia [MIT](LICENSE)
