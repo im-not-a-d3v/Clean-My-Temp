@@ -22,8 +22,10 @@ Este repositorio contiene dos scripts en Bash para eliminar automáticamente arc
 3. Ejecuta el script con el siguiente comando:
 
    ```bash
-   ./CleanMyTemp.sh
+   bash CleanMyTemp.sh
    ```
+
+    <img src="./repository resources/cmt-run.gif">
 
    El script buscará archivos temporales y te pedirá confirmación antes de eliminarlos.
 
@@ -66,6 +68,5 @@ Para programar la ejecución periódica de `CleanMyTemp-AUTO`:
 - **Archivos en uso**: Algunos archivos o carpetas pueden no eliminarse si están en uso por el sistema u otras aplicaciones.
 - **Ejecutar con cuidado**: Asegúrate de que no hay archivos necesarios en las carpetas temporales, ya que serán eliminados sin confirmación (en el caso de `CleanMyTemp-AUTO`).
 
----
-
-¡Espero que estos scripts te sean útiles para mantener tu sistema limpio!
+## Licencia
+Proyecto bajo licencia [MIT.](LICENSE)
